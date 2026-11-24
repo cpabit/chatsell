@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.vercel/
+
+.env*
+!.env.example
+
+*.pem
+*firebase-adminsdk*.json
+clave cuenta de servicio firebase/
